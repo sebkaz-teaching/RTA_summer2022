@@ -16,8 +16,8 @@ exclude:      ["*.Rmd"]
 title:               Analiza Danych w czasie rzeczywistym
 tagline:             'kurs dla studentów SGH'
 description:         'Real-Time Analytics'
-url:                 https://sebkaz.github.io/RealTime
-baseurl:             "/RealTime"             
+url:                 https://sebkaz.github.io/RTA_summer2022
+baseurl:             "/RTA_summer2022"             
 paginate:            5
 
 # About/contact
